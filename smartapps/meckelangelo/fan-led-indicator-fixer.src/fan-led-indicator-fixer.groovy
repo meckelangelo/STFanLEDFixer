@@ -4,8 +4,9 @@ definition(
     author: "David Meck",
     description: "Changes the indicator light setting to always be off.",
     category: "My Apps",
-    iconUrl: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience.png",
-    iconX2Url: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience%402x.png"
+    iconUrl: "https://raw.githubusercontent.com/meckelangelo/STFanLEDFixer/master/LED60x60.png",
+    iconX2Url: "https://raw.githubusercontent.com/meckelangelo/STFanLEDFixer/master/LED120x120.png",
+    iconX3Url: "https://raw.githubusercontent.com/meckelangelo/STFanLEDFixer/master/LED.png")
 )
 
 preferences {
